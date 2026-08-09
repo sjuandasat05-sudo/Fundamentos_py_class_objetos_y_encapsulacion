@@ -143,6 +143,7 @@ def agregar_equipo():
     equipos[nombre_equipo] = {"disponible": True, "prestamos": []}
     print(f"\nEl equipo '{nombre_equipo}' fue registrado exitosamente.")
 
+print("===== ingresar directamente a la carpeta desde la terminal para que el programacione correctamente========")
 
 def menu():
     """
@@ -150,7 +151,7 @@ def menu():
     al usuario a la opción correspondiente hasta que decida salir.
     """
     opciones_validas = {"1", "2", "3", "4", "5", "6"}
-
+        
     while True:
         print("\n===== SISTEMA DE PRÉSTAMOS DE EQUIPOS =====")
         print("1. Ver equipos disponibles")
