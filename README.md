@@ -1,6 +1,18 @@
 # Fundamentos_py_class_objetos_y_encapsulacion
 
 
+JUAN DAVID SALAZAR TORRES
+
+FICHA 3169901
+
+ANALISIS  Y DESARROLLO DE SOFTWARE
+
+PROFESOR 
+
+CARLOS NAVIA
+
+CTMA (SENA)
+
 El recorrido de hoy
 
 Empezamos con la clase Libro, donde no solo hicimos lo básico de prestar/devolver, sino que le dimos memoria: ahora el libro recuerda quién lo tiene y cuándo se lo llevó, como si fuera una ficha real de biblioteca.
